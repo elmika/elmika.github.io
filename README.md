@@ -11,14 +11,14 @@
 **[mock-now](https://github.com/elmika/mock-now) [PHP]:** PoC about testing objects whose behaviour depends on the (real time) clock. For a bit of context, see [Software Engineering](https://softwareengineering.stackexchange.com/questions/235145/real-time-unit-testing-or-how-to-mock-now
 ) post on StackExchange.
 	
-**[mail-connector](https://github.com/elmika/mail-connector) [Python]:** Retrieve email via IMAP.
-
 **[social-randomness](https://github.com/elmika/social-randomness) [Markdown]:** Architecture of a random number generator concept that is based on several parties providing each a random number.
-
-**[test-rabbit](https://github.com/elmika/test-rabbit) [PHP]:** Filter offensive text using the purgomalum service with Rabbit-mq, Redis and Silex.
 
 **[cube](https://github.com/elmika/cube)** [PHP]: Little programming exercise.
 
 ## Learning
 
 **[rocket-launcher](https://github.com/elmika/rocket-launcher) [node.js]:** Code along as I go through the [node.js course by ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/) on Udemy.
+
+**[test-rabbit](https://github.com/elmika/test-rabbit) [PHP]:** Filter offensive text using the purgomalum service with Rabbit-mq, Redis and Silex.
+
+**[mail-connector](https://github.com/elmika/mail-connector) [Python]:** Retrieve email via IMAP.
