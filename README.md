@@ -17,6 +17,8 @@
 
 **[test-rabbit](https://github.com/elmika/test-rabbit) [PHP]:** Filter offensive text using the purgomalum service with Rabbit-mq, Redis and Silex.
 
+**[cube](https://github.com/elmika/cube)** [PHP]: Little programming exercise.
+
 ## Learning
 
 **[rocket-launcher](https://github.com/elmika/rocket-launcher) [node.js]:** Code along as I go through the [node.js course by ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/) on Udemy.
