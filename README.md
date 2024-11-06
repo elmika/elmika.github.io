@@ -1,4 +1,5 @@
-
+Startups, teambuilding, product strategy... And here is some code!
+Click [here](https://github.com/elmika) if you want to go back to my repos
 
 ## Personal projects
 
