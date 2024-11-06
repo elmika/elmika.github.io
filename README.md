@@ -3,6 +3,13 @@ Click [here](https://github.com/elmika) if you want to go back to my repos
 
 ## Personal projects
 
+
+**[fruits-and-vegetables](https://github.com/elmika/fruits-and-vegetables)**: PHP exercise. Diagram of a DDD project.
+
+
+**[travelling-salesman](https://github.com/elmika/travelling-salesman)**: Java optimization project
+
+
 **[technical-test](https://github.com/elmika/technical-test) [PHP]:** Apply Hexagonal architecture and some DDD concepts to develop an API read endpoint.
 
 **[book-quotes](https://github.com/elmika/book-quotes) [Perl]:** Parse text inputs, extract phrases with a chosen word. Rescued original script developed with the perl programming language around 2010. I used chatGPT to dockerize the project and refactor the code in a language I was no longer familiar with.
